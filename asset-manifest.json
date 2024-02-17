@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d806f8e8.css",
+    "main.js": "/portfolio/static/js/main.8cc51f55.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.779292d9c5f23fa3dff8.pdf",
+    "static/media/wp6037680-natuto-iphone-6-wallpapers.jpg": "/portfolio/static/media/wp6037680-natuto-iphone-6-wallpapers.d758a0b8b509816f0532.jpg",
+    "static/media/react-native.svg": "/portfolio/static/media/react-native.55360266b3781dae00a5a77c8916f82d.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
+    "static/media/sql.svg": "/portfolio/static/media/sql.f586030ae346497d3d321e6203efeead.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/firebase.svg": "/portfolio/static/media/firebase.e6583a29712875c8977afcba1d0b6883.svg",
+    "static/media/c.svg": "/portfolio/static/media/c.a776a608546a79750b150829bc9b099e.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/shopify.svg": "/portfolio/static/media/shopify.bd4a4ffff34c3a22eaac3ec887e90890.svg",
+    "static/media/cpp.svg": "/portfolio/static/media/cpp.21a8fab81e76bf019238a55c1c88198c.svg",
+    "static/media/python.svg": "/portfolio/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/bootstrap-5.svg": "/portfolio/static/media/bootstrap-5.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/wordpress.svg": "/portfolio/static/media/wordpress.203c28dfdb6b9849eef82ad98ba47662.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/angular.svg": "/portfolio/static/media/angular.28ae4f3c6c193d04113e4767a73b86bc.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/material-uisvg.svg": "/portfolio/static/media/material-uisvg.fd510ed8518b192069590b04e2e6348a.svg",
+    "main.d806f8e8.css.map": "/portfolio/static/css/main.d806f8e8.css.map",
+    "main.8cc51f55.js.map": "/portfolio/static/js/main.8cc51f55.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d806f8e8.css",
+    "static/js/main.8cc51f55.js"
+  ]
+}
