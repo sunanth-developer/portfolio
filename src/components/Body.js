@@ -272,12 +272,8 @@ export default function Body() {
             </div>
             </div>
         </div>
-        <div className='contact'>
-
-
-
-
-            <div class="container">
+       {/* <div className='contact'>
+        <div class="container">
   <div class="form-container">
     <div class="left-container">
       <div class="left-inner-container">
@@ -308,17 +304,7 @@ export default function Body() {
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-        </div>
+        </div>*/}
     </div>
   )
 }

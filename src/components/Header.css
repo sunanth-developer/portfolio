@@ -32,9 +32,18 @@
     border-radius: 50%;
 
 }
+.wavinghand{
+    height: 40px;
+    transform: scaleX(-1);
+}
+.hand{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
 .profileimage{
     border-radius: 5px;
-    height:300px;
+    height:270px;
     width:200px;
 }
 .downloadresume{

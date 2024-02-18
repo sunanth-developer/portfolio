@@ -1,7 +1,7 @@
 import React from 'react'
 import {useTypewriter, Cursor} from 'react-simple-typewriter'
 import './Header.css'
-import image from '../assets/wp6037680-natuto-iphone-6-wallpapers.jpg'
+import image from '../assets/profile.jpg'
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
@@ -9,6 +9,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import CallIcon from '@mui/icons-material/Call';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
 import resume from '../assets/resume.pdf'
+import waving from '../assets/waving-hand.svg'
 export default function Header() {
 
     const [text]= useTypewriter({
@@ -32,7 +33,7 @@ aTag. remove ();
   return (
     <div className='header'>
         <div className='headerleft'>
-        <h2>Hii!</h2>
+        <h2 className='hand'>Hii! <img src={waving} className="wavinghand"/></h2>
         <h2>I am Sunanth Samala  </h2>
         <h2 className='autotype'><span >{text}</span> <span ><Cursor cursorStyle="|"/></span></h2>
         <div className="socials">
