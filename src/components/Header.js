@@ -1,7 +1,7 @@
 import React from 'react'
 import {useTypewriter, Cursor} from 'react-simple-typewriter'
 import './Header.css'
-import image from '../assets/profile.jpg'
+import image from '../assets/profile.JPG'
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';

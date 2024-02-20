@@ -3,7 +3,7 @@
     margin: 0;
 }
 .header {
-    background-image: url("https://img.freepik.com/free-vector/abstract-blue-light-pipe-speed-zoom-black-background-technology_1142-8633.jpg");
+    background-image: url("https://img.freepik.com/premium-vector/digital-technology-background-digital-data-square-blue-pattern-pixel-background_322958-350.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -43,8 +43,8 @@
 }
 .profileimage{
     border-radius: 5px;
-    height:270px;
-    width:200px;
+    height:280px;
+    width:240px;
 }
 .downloadresume{
     text-decoration: none;
